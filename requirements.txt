@@ -1,0 +1,108 @@
+# Core Data Science & ML
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=0.24.2
+scipy>=1.7.0
+networkx>=2.6.3
+ta>=0.7.0  # Technical Analysis
+
+# Deep Learning & RL
+tensorflow>=2.8.0
+tensorflow-probability>=0.16.0
+gym>=0.21.0
+stable-baselines3>=1.5.0
+
+# Quantum Computing
+qiskit>=0.34.0
+qiskit-finance>=0.3.0
+qiskit-machine-learning>=0.3.0
+dwave-ocean-sdk>=4.3.0
+dimod>=0.10.0
+dwavebinarycsp>=0.1.3
+
+# Web3 & Blockchain
+web3>=5.24.0
+eth-account>=0.8.0
+eth-typing>=3.0.0
+eth-utils>=2.1.0
+eth-abi>=4.0.0
+py-solc-x>=1.1.1
+zk-snarks>=0.1.0
+circom>=0.5.0
+snarkjs>=0.4.0
+ethsnarks>=0.2.0
+
+# AWS & GCP
+boto3>=1.26.0
+sagemaker>=2.100.0
+google-cloud-storage>=2.0.0
+google-cloud-aiplatform>=1.16.0
+
+# Message Queue & Streaming
+redis>=4.3.0
+kafka-python>=2.0.2
+confluent-kafka>=1.8.2
+aiokafka>=0.7.2
+
+# API & Web
+ccxt>=2.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+requests>=2.26.0
+aiohttp>=3.8.0
+websockets>=10.0
+python-dotenv>=0.19.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+newsapi-python>=0.2.7
+
+# Data Processing & Analysis
+yfinance>=0.1.70
+pandas-ta>=0.3.0
+python-binance>=1.0.17
+alpha-vantage>=2.3.1
+bottleneck>=1.3.0
+pyarrow>=6.0.0
+polars>=0.13.0
+
+# Database
+sqlalchemy>=1.4.0
+asyncpg>=0.28.0
+psycopg2-binary>=2.9.0
+pymongo>=4.0.0
+motor>=2.5.0
+
+# Testing & Development
+pytest>=6.2.5
+pytest-asyncio>=0.16.0
+pytest-cov>=2.12.0
+black>=21.12b0
+flake8>=6.0.0
+mypy>=0.910
+isort>=5.9.3
+
+# Monitoring & Logging
+prometheus-client>=0.12.0
+python-json-logger>=2.0.2
+
+# Utilities
+python-dateutil>=2.8.0
+tweepy>=4.14.0
+praw>=7.7.0
+beautifulsoup4>=4.12.0
+tqdm>=4.62.0
+joblib>=1.1.0
+pyyaml>=6.0.0
+ujson>=4.0.0
+msgpack>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.2
+plotly>=5.3.1
+
+# Added from the code block
+pylint>=2.12.0
+asyncio>=3.4.3
+jupyter>=1.0.0
+ipython>=7.30.0 
